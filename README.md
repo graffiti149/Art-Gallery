@@ -1,1 +1,1 @@
-Modern Art Gallery Front-end Mentor
+Modern Art Gallery Frontend Mentor
